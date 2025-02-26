@@ -8,6 +8,12 @@ for i in range(2):
 
 
 
+for i in range(2):
+    name = "Basketball is the best sport"
+    name = name.swapcase()
+    print(name)
+
+
 
 
 
